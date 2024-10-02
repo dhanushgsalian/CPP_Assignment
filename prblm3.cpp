@@ -24,8 +24,8 @@ class Person {
 
 int main() {
     // Create two person objects
-    Person person1("Mahesh", 30);
-    Person person2("Praveen", 10);
+    Person person1("Dhanush", 30);
+    Person person2("Mohan", 10);
 
     // Call print_info() on both
     person1.print_info();
